@@ -41,6 +41,23 @@ namespace AluraTunes
             {
                 Console.WriteLine("{0}\t{1}", genero.Id, genero.Nome);
             }
+
+            // Listar músicas
+            var musicas = new List<Musica>
+            {
+                new Musica { Id = 1, Nome = "Sweet Chile O'Mine", GeneroId = 1 },
+                new Musica { Id = 2, Nome = "I Shoot The Sheriff", GeneroId = 2 },
+                new Musica { Id = 3, Nome = "Danúbio Azul", GeneroId = 5 }
+            };
+            // listar musicas e generos com inner join
+            var musicaQuery = from m in musicas
+                              join g in generos on m.GeneroId equals g.Id
+                              select new { m, g }; // objeto anônimo com duas propriedades
+            Console.WriteLine();
+            foreach (var musica in musicaQuery)
+            {
+                Console.WriteLine("{0}\t{1}\t{2}", musica.m.Id, musica.m.Nome, musica.g.Nome);
+            }
             Console.ReadKey();
         }
     }
@@ -49,5 +66,11 @@ namespace AluraTunes
         // atributos, getters and setters
         public int Id { get; set; }
         public string Nome { get; set; }
+    }
+    class Musica
+    {
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public int GeneroId { get; set; } // atributo para fazer asssociação
     }
 }
