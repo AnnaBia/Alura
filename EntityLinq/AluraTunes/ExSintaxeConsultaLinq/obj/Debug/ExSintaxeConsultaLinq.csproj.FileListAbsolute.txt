@@ -1,0 +1,7 @@
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExSintaxeConsultaLinq\bin\Debug\ExSintaxeConsultaLinq.exe.config
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExSintaxeConsultaLinq\bin\Debug\ExSintaxeConsultaLinq.exe
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExSintaxeConsultaLinq\bin\Debug\ExSintaxeConsultaLinq.pdb
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExSintaxeConsultaLinq\obj\Debug\ExSintaxeConsultaLinq.csproj.AssemblyReference.cache
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExSintaxeConsultaLinq\obj\Debug\ExSintaxeConsultaLinq.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExSintaxeConsultaLinq\obj\Debug\ExSintaxeConsultaLinq.exe
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExSintaxeConsultaLinq\obj\Debug\ExSintaxeConsultaLinq.pdb

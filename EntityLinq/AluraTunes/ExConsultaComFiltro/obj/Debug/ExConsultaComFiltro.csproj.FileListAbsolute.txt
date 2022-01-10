@@ -1,0 +1,6 @@
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultaComFiltro\obj\Debug\ExConsultaComFiltro.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultaComFiltro\bin\Debug\ExConsultaComFiltro.exe.config
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultaComFiltro\bin\Debug\ExConsultaComFiltro.exe
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultaComFiltro\bin\Debug\ExConsultaComFiltro.pdb
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultaComFiltro\obj\Debug\ExConsultaComFiltro.exe
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultaComFiltro\obj\Debug\ExConsultaComFiltro.pdb

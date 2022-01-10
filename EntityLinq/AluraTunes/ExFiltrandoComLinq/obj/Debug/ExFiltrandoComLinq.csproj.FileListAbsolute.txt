@@ -1,0 +1,7 @@
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExFiltrandoComLinq\bin\Debug\ExFiltrandoComLinq.exe.config
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExFiltrandoComLinq\bin\Debug\ExFiltrandoComLinq.exe
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExFiltrandoComLinq\bin\Debug\ExFiltrandoComLinq.pdb
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExFiltrandoComLinq\obj\Debug\ExFiltrandoComLinq.csproj.AssemblyReference.cache
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExFiltrandoComLinq\obj\Debug\ExFiltrandoComLinq.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExFiltrandoComLinq\obj\Debug\ExFiltrandoComLinq.exe
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExFiltrandoComLinq\obj\Debug\ExFiltrandoComLinq.pdb

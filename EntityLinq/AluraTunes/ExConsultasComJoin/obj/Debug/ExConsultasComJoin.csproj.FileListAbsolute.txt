@@ -1,0 +1,7 @@
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultasComJoin\obj\Debug\ExConsultasComJoin.csproj.AssemblyReference.cache
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultasComJoin\obj\Debug\ExConsultasComJoin.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultasComJoin\bin\Debug\ExConsultasComJoin.exe.config
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultasComJoin\bin\Debug\ExConsultasComJoin.exe
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultasComJoin\bin\Debug\ExConsultasComJoin.pdb
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultasComJoin\obj\Debug\ExConsultasComJoin.exe
+C:\Users\bia_e\Desktop\Alura\EntityLinq\AluraTunes\ExConsultasComJoin\obj\Debug\ExConsultasComJoin.pdb

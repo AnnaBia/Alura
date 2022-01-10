@@ -5,6 +5,16 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraTunes", "AluraTunes\AluraTunes.csproj", "{D78E6F3E-DFBC-4EC3-950F-EEA2A56D446F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExSintaxeConsultaLinq", "ExSintaxeConsultaLinq\ExSintaxeConsultaLinq.csproj", "{7C89A2FC-AB88-44D0-865C-C832155E07EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExFiltrandoComLinq", "ExFiltrandoComLinq\ExFiltrandoComLinq.csproj", "{21F87E21-3363-4239-90B8-50C0ACEED183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExConsultaComContains", "ExConsultaComContains\ExConsultaComContains.csproj", "{7AB8BBE4-1474-4C94-B98A-1D44E8B87CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExOperadorDeIgualdade", "ExOperadorDeIgualdade\ExOperadorDeIgualdade.csproj", "{983E761E-DA2E-47F2-9026-119D532EB0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExConsultasComJoin", "ExConsultasComJoin\ExConsultasComJoin.csproj", "{0ED0337A-61E0-4406-844C-A05C009B15D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{D78E6F3E-DFBC-4EC3-950F-EEA2A56D446F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D78E6F3E-DFBC-4EC3-950F-EEA2A56D446F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D78E6F3E-DFBC-4EC3-950F-EEA2A56D446F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C89A2FC-AB88-44D0-865C-C832155E07EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C89A2FC-AB88-44D0-865C-C832155E07EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C89A2FC-AB88-44D0-865C-C832155E07EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C89A2FC-AB88-44D0-865C-C832155E07EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F87E21-3363-4239-90B8-50C0ACEED183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F87E21-3363-4239-90B8-50C0ACEED183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F87E21-3363-4239-90B8-50C0ACEED183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F87E21-3363-4239-90B8-50C0ACEED183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB8BBE4-1474-4C94-B98A-1D44E8B87CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB8BBE4-1474-4C94-B98A-1D44E8B87CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB8BBE4-1474-4C94-B98A-1D44E8B87CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB8BBE4-1474-4C94-B98A-1D44E8B87CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983E761E-DA2E-47F2-9026-119D532EB0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983E761E-DA2E-47F2-9026-119D532EB0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983E761E-DA2E-47F2-9026-119D532EB0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983E761E-DA2E-47F2-9026-119D532EB0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED0337A-61E0-4406-844C-A05C009B15D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED0337A-61E0-4406-844C-A05C009B15D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED0337A-61E0-4406-844C-A05C009B15D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED0337A-61E0-4406-844C-A05C009B15D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
