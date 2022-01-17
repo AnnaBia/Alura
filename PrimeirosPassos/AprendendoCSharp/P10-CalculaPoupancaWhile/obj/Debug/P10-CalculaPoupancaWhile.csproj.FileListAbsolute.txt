@@ -1,0 +1,7 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupancaWhile\bin\Debug\P10-CalculaPoupancaWhile.exe.config
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupancaWhile\bin\Debug\P10-CalculaPoupancaWhile.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupancaWhile\bin\Debug\P10-CalculaPoupancaWhile.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupancaWhile\obj\Debug\P10-CalculaPoupancaWhile.csproj.AssemblyReference.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupancaWhile\obj\Debug\P10-CalculaPoupancaWhile.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupancaWhile\obj\Debug\P10-CalculaPoupancaWhile.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupancaWhile\obj\Debug\P10-CalculaPoupancaWhile.pdb

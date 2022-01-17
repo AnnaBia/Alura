@@ -1,0 +1,7 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P11-CalculaPoupancaFor\bin\Debug\P11-CalculaPoupancaFor.exe.config
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P11-CalculaPoupancaFor\bin\Debug\P11-CalculaPoupancaFor.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P11-CalculaPoupancaFor\bin\Debug\P11-CalculaPoupancaFor.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P11-CalculaPoupancaFor\obj\Debug\P11-CalculaPoupancaFor.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P11-CalculaPoupancaFor\obj\Debug\P11-CalculaPoupancaFor.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P11-CalculaPoupancaFor\obj\Debug\P11-CalculaPoupancaFor.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P11-CalculaPoupancaFor\obj\Debug\P11-CalculaPoupancaFor.csproj.AssemblyReference.cache

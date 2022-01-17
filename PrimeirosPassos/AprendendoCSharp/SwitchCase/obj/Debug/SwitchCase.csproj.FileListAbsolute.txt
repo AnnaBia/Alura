@@ -1,0 +1,7 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\SwitchCase\obj\Debug\SwitchCase.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache

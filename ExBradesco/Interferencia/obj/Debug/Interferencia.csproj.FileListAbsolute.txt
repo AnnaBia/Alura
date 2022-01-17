@@ -1,0 +1,7 @@
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Interferencia\bin\Debug\Interferencia.exe.config
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Interferencia\bin\Debug\Interferencia.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Interferencia\bin\Debug\Interferencia.pdb
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Interferencia\obj\Debug\Interferencia.csproj.AssemblyReference.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Interferencia\obj\Debug\Interferencia.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Interferencia\obj\Debug\Interferencia.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Interferencia\obj\Debug\Interferencia.pdb

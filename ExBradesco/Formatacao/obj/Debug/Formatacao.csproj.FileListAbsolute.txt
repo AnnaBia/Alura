@@ -1,0 +1,7 @@
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Formatacao\bin\Debug\Formatacao.exe.config
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Formatacao\bin\Debug\Formatacao.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Formatacao\bin\Debug\Formatacao.pdb
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Formatacao\obj\Debug\Formatacao.csproj.AssemblyReference.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Formatacao\obj\Debug\Formatacao.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Formatacao\obj\Debug\Formatacao.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Formatacao\obj\Debug\Formatacao.pdb

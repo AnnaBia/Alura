@@ -1,0 +1,7 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\4-ConversaoEOutrosTiposNumericos.exe.config
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\4-ConversaoEOutrosTiposNumericos.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\4-ConversaoEOutrosTiposNumericos.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\4-ConversaoEOutrosTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\4-ConversaoEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\4-ConversaoEOutrosTiposNumericos.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\4-ConversaoEOutrosTiposNumericos.pdb

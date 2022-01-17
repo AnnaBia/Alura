@@ -1,0 +1,6 @@
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresUnarios\bin\Debug\OperadoresUnarios.exe.config
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresUnarios\bin\Debug\OperadoresUnarios.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresUnarios\bin\Debug\OperadoresUnarios.pdb
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresUnarios\obj\Debug\OperadoresUnarios.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresUnarios\obj\Debug\OperadoresUnarios.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresUnarios\obj\Debug\OperadoresUnarios.pdb

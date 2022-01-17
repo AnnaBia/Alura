@@ -1,0 +1,7 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\6-AtribuicaoDeVariaveis\bin\Debug\6-AtribuicaoDeVariaveis.exe.config
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\6-AtribuicaoDeVariaveis\bin\Debug\6-AtribuicaoDeVariaveis.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\6-AtribuicaoDeVariaveis\bin\Debug\6-AtribuicaoDeVariaveis.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\6-AtribuicaoDeVariaveis\obj\Debug\6-AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\6-AtribuicaoDeVariaveis\obj\Debug\6-AtribuicaoDeVariaveis.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\6-AtribuicaoDeVariaveis\obj\Debug\6-AtribuicaoDeVariaveis.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\6-AtribuicaoDeVariaveis\obj\Debug\6-AtribuicaoDeVariaveis.csproj.AssemblyReference.cache

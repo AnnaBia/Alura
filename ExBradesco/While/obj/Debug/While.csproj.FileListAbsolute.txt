@@ -1,0 +1,6 @@
+C:\Users\bia_e\source\repos\ExerciciosCSharp\While\bin\Debug\While.exe.config
+C:\Users\bia_e\source\repos\ExerciciosCSharp\While\bin\Debug\While.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\While\bin\Debug\While.pdb
+C:\Users\bia_e\source\repos\ExerciciosCSharp\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\While\obj\Debug\While.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\While\obj\Debug\While.pdb

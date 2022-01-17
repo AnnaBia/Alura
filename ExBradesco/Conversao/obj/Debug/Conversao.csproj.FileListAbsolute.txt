@@ -1,0 +1,6 @@
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Conversao\bin\Debug\Conversao.exe.config
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Conversao\bin\Debug\Conversao.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Conversao\bin\Debug\Conversao.pdb
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Conversao\obj\Debug\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Conversao\obj\Debug\Conversao.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\Conversao\obj\Debug\Conversao.pdb

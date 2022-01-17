@@ -1,0 +1,6 @@
+C:\Users\bia_e\source\repos\ExerciciosCSharp\SwichCase\bin\Debug\SwichCase.exe.config
+C:\Users\bia_e\source\repos\ExerciciosCSharp\SwichCase\bin\Debug\SwichCase.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\SwichCase\bin\Debug\SwichCase.pdb
+C:\Users\bia_e\source\repos\ExerciciosCSharp\SwichCase\obj\Debug\SwichCase.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\SwichCase\obj\Debug\SwichCase.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\SwichCase\obj\Debug\SwichCase.pdb

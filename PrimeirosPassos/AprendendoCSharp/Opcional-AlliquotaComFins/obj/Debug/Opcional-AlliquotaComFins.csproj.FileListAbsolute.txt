@@ -1,0 +1,6 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\Opcional-AlliquotaComFins\bin\Debug\Opcional-AlliquotaComFins.exe.config
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\Opcional-AlliquotaComFins\bin\Debug\Opcional-AlliquotaComFins.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\Opcional-AlliquotaComFins\bin\Debug\Opcional-AlliquotaComFins.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\Opcional-AlliquotaComFins\obj\Debug\Opcional-AlliquotaComFins.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\Opcional-AlliquotaComFins\obj\Debug\Opcional-AlliquotaComFins.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\Opcional-AlliquotaComFins\obj\Debug\Opcional-AlliquotaComFins.pdb

@@ -1,0 +1,6 @@
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb

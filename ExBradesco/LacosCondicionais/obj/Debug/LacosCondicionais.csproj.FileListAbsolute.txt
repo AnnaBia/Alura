@@ -1,0 +1,7 @@
+C:\Users\bia_e\source\repos\ExerciciosCSharp\LacosCondicionais\bin\Debug\LacosCondicionais.exe.config
+C:\Users\bia_e\source\repos\ExerciciosCSharp\LacosCondicionais\bin\Debug\LacosCondicionais.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\LacosCondicionais\bin\Debug\LacosCondicionais.pdb
+C:\Users\bia_e\source\repos\ExerciciosCSharp\LacosCondicionais\obj\Debug\LacosCondicionais.csproj.AssemblyReference.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\LacosCondicionais\obj\Debug\LacosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\source\repos\ExerciciosCSharp\LacosCondicionais\obj\Debug\LacosCondicionais.exe
+C:\Users\bia_e\source\repos\ExerciciosCSharp\LacosCondicionais\obj\Debug\LacosCondicionais.pdb
