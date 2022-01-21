@@ -1,0 +1,16 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net5.0\LacoDeRepeticaoWhile.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net5.0\LacoDeRepeticaoWhile.deps.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net5.0\LacoDeRepeticaoWhile.runtimeconfig.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net5.0\LacoDeRepeticaoWhile.runtimeconfig.dev.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net5.0\LacoDeRepeticaoWhile.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net5.0\ref\LacoDeRepeticaoWhile.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net5.0\LacoDeRepeticaoWhile.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net5.0\LacoDeRepeticaoWhile.csproj.AssemblyReference.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net5.0\LacoDeRepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net5.0\LacoDeRepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net5.0\LacoDeRepeticaoWhile.AssemblyInfo.cs
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net5.0\LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net5.0\LacoDeRepeticaoWhile.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net5.0\ref\LacoDeRepeticaoWhile.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net5.0\LacoDeRepeticaoWhile.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net5.0\LacoDeRepeticaoWhile.genruntimeconfig.cache

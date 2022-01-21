@@ -1,0 +1,15 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\bin\Debug\net5.0\P-TabuadaFor.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\bin\Debug\net5.0\P-TabuadaFor.deps.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\bin\Debug\net5.0\P-TabuadaFor.runtimeconfig.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\bin\Debug\net5.0\P-TabuadaFor.runtimeconfig.dev.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\bin\Debug\net5.0\P-TabuadaFor.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\bin\Debug\net5.0\ref\P-TabuadaFor.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\bin\Debug\net5.0\P-TabuadaFor.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\obj\Debug\net5.0\P-TabuadaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\obj\Debug\net5.0\P-TabuadaFor.AssemblyInfoInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\obj\Debug\net5.0\P-TabuadaFor.AssemblyInfo.cs
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\obj\Debug\net5.0\P-TabuadaFor.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\obj\Debug\net5.0\P-TabuadaFor.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\obj\Debug\net5.0\ref\P-TabuadaFor.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\obj\Debug\net5.0\P-TabuadaFor.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-TabuadaFor\obj\Debug\net5.0\P-TabuadaFor.genruntimeconfig.cache

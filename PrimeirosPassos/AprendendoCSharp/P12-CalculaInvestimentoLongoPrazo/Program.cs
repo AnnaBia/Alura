@@ -26,6 +26,7 @@ namespace P12_CalculaInvestimentoLongoPrazo
                 fatorRendimento += 0.010;
             }
             Console.WriteLine("Ao término do investimento você terá R${0:f2}", valorInvestido);
+
             Console.ReadKey();
         }
     }

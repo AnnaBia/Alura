@@ -1,0 +1,15 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\bin\Debug\net5.0\P-ExerciciosFor.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\bin\Debug\net5.0\P-ExerciciosFor.deps.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\bin\Debug\net5.0\P-ExerciciosFor.runtimeconfig.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\bin\Debug\net5.0\P-ExerciciosFor.runtimeconfig.dev.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\bin\Debug\net5.0\P-ExerciciosFor.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\bin\Debug\net5.0\ref\P-ExerciciosFor.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\bin\Debug\net5.0\P-ExerciciosFor.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\obj\Debug\net5.0\P-ExerciciosFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\obj\Debug\net5.0\P-ExerciciosFor.AssemblyInfoInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\obj\Debug\net5.0\P-ExerciciosFor.AssemblyInfo.cs
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\obj\Debug\net5.0\P-ExerciciosFor.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\obj\Debug\net5.0\P-ExerciciosFor.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\obj\Debug\net5.0\ref\P-ExerciciosFor.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\obj\Debug\net5.0\P-ExerciciosFor.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-ExerciciosFor\obj\Debug\net5.0\P-ExerciciosFor.genruntimeconfig.cache

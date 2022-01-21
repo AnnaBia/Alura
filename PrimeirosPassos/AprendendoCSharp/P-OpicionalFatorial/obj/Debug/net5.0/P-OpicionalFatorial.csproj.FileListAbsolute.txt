@@ -1,0 +1,16 @@
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\bin\Debug\net5.0\P-OpicionalFatorial.exe
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\bin\Debug\net5.0\P-OpicionalFatorial.deps.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\bin\Debug\net5.0\P-OpicionalFatorial.runtimeconfig.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\bin\Debug\net5.0\P-OpicionalFatorial.runtimeconfig.dev.json
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\bin\Debug\net5.0\P-OpicionalFatorial.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\bin\Debug\net5.0\ref\P-OpicionalFatorial.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\bin\Debug\net5.0\P-OpicionalFatorial.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\obj\Debug\net5.0\P-OpicionalFatorial.csproj.AssemblyReference.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\obj\Debug\net5.0\P-OpicionalFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\obj\Debug\net5.0\P-OpicionalFatorial.AssemblyInfoInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\obj\Debug\net5.0\P-OpicionalFatorial.AssemblyInfo.cs
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\obj\Debug\net5.0\P-OpicionalFatorial.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\obj\Debug\net5.0\P-OpicionalFatorial.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\obj\Debug\net5.0\ref\P-OpicionalFatorial.dll
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\obj\Debug\net5.0\P-OpicionalFatorial.pdb
+C:\Users\bia_e\Desktop\Alura\PrimeirosPassos\AprendendoCSharp\P-OpicionalFatorial\obj\Debug\net5.0\P-OpicionalFatorial.genruntimeconfig.cache
