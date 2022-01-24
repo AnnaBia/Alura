@@ -1,0 +1,16 @@
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\bin\Debug\net5.0\ExEndereco.exe
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\bin\Debug\net5.0\ExEndereco.deps.json
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\bin\Debug\net5.0\ExEndereco.runtimeconfig.json
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\bin\Debug\net5.0\ExEndereco.runtimeconfig.dev.json
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\bin\Debug\net5.0\ExEndereco.dll
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\bin\Debug\net5.0\ref\ExEndereco.dll
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\bin\Debug\net5.0\ExEndereco.pdb
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\obj\Debug\net5.0\ExEndereco.csproj.AssemblyReference.cache
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\obj\Debug\net5.0\ExEndereco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\obj\Debug\net5.0\ExEndereco.AssemblyInfoInputs.cache
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\obj\Debug\net5.0\ExEndereco.AssemblyInfo.cs
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\obj\Debug\net5.0\ExEndereco.csproj.CoreCompileInputs.cache
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\obj\Debug\net5.0\ExEndereco.dll
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\obj\Debug\net5.0\ref\ExEndereco.dll
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\obj\Debug\net5.0\ExEndereco.pdb
+C:\Users\bia_e\Desktop\Alura\IntroducaoOrientacaoAObjeto\ExEndereco\obj\Debug\net5.0\ExEndereco.genruntimeconfig.cache
